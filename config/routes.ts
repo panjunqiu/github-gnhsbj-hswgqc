@@ -15,16 +15,6 @@ export default [
         component: 'Home',
         name: 'Home',
       },
-      {
-        path: '/template_page_dva',
-        component: 'template/page_dva',
-        name: 'Template',
-      },
-      {
-        path: '/template_page_normal',
-        component: 'template/page_normal',
-        name: 'Template',
-      },
     ],
   },
 ];
